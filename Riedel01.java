@@ -1,8 +1,8 @@
-package H23HX3V;
+package H23HX3;
 import robocode.*;
 import java.awt.Color;
 
-
+/*Dette er ikke min egen kode; https://gist.github.com/rogerluan/d62a26039d9bcb9395f5d391fb1a17ae*/
 public class Riedel01 extends AdvancedRobot {
   int gunDirection = 1;
 
